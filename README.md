@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AI/ML Research
+- 🌱 I’m currently learning React and Javascript
+
 <!--
 **huangr0867/huangr0867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
