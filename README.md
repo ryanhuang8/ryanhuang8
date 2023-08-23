@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on AI/ML research
 - 🌱 I’m currently learning React and Javascript
 - 📫 How to reach me: ryan_y_huang@brown.edu
+- 📸 @sarahluo888
 
 <!--
 **huangr0867/huangr0867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
