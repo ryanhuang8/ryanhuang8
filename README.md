@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AI/ML research
-- 🌱 I’m currently learning React and Javascript
+- 🌱 I’m currently learning about generative models!
 - 📫 How to reach me: ryan_y_huang@brown.edu
 - 📸 @sarahluo888
 
