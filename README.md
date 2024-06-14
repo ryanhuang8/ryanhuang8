@@ -3,7 +3,7 @@ I'm Ryan, a junior studying Computer Science at Brown!
 
 - 🔭 I’m currently working on BioML research
 - 🌱 I’m currently learning about 3D graphics
-- 📫 How to reach me: ryan_y_huang@brown.edu
+- 📫 How to reach me: ryan_y_huang[at]brown[dot]edu
 - 📸 @sarahluo888
 
 <!--
