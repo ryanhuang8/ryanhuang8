@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Ryan, a junior studying Computer Science at Brown!
 
-- 🔭 I’m currently working on BioML research
-- 🌱 I’m currently learning about 3D graphics
+- 🔭 I’m currently working on 3D vision research
+- 🌱 I’m currently learning about computer vision/graphics
 - 📫 How to reach me: ryan_y_huang[at]brown[dot]edu
 - 📸 @sarahluo888
 
