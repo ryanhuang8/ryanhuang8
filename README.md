@@ -2,9 +2,8 @@
 I'm Ryan, a junior studying Computer Science at Brown!
 
 - 🔭 I’m currently working on 3D vision research
-- 🌱 I’m currently learning about computer vision/graphics
+- 🌱 I’m currently learning about computer vision and graphics
 - 📫 How to reach me: ryan_y_huang[at]brown[dot]edu
-- 📸 @sarahluo888
 
 <!--
 **huangr0867/huangr0867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
