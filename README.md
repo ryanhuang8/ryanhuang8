@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ryan, a junior studying Computer Science at Brown!
+I'm Ryan, a senior studying Computer Science at Brown!
 
 - 🔭 I’m currently working on 3D vision research
 - 🌱 I’m currently learning about computer vision and graphics
